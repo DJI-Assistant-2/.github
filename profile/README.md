@@ -31,7 +31,7 @@ This offline setup assistant allows you to install DJI Assistant 2 without requi
 
 🖼 Preview
 
-![DJI Assistant Interface](https://i.ytimg.com/vi/MAoo8cS_S3Y/maxresdefault.jpg)  
+![DJI Assistant Interface](https://i.ytimg.com/vi/FOUjg2CrBEc/maxresdefault.jpg)  
 ![Mavic Connected to Assistant](https://devusa.djicdn.com/images/application-development-workflow/MavicConnected-3045d4ff8c.png)
 
 ---
